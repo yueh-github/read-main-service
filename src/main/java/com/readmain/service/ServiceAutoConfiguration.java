@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 
 /**
- *
+ * service 对应的配置文件
  */
 @Configuration
 @ComponentScan(basePackages = "com.readmain.service")
